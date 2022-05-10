@@ -15,3 +15,11 @@ There are two different demo scripts that present the results of the two methods
 This part implements the proper functions in order to apply transformations and projections in an object. In the demo script presented examples of translations by a constant vector v and rotation by a constant matrix R.
 
 2nd Part Assignment's Presentation(only in Greek) : [here](Part%202/hw2_2021.pdf)
+
+
+### Part 3 - Illumination of an object.
+This part implements the illumination of an object with three methods: ambient, diffusion and specular. For the painting of the object used two methods: 
+1. Gouraud Method : (The method described in the first part.)
+2. Phong Method : [Info about this method here](https://en.wikipedia.org/wiki/Phong_shading)
+
+2nd Part Assignment's Presentation(only in Greek) : [here](Part%203/CG_HW3_2021.pdf)
