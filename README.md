@@ -12,6 +12,6 @@ There are two different demo scripts that present the results of the two methods
 1st Part Assignment's Presentation(only in Greek) : [here](Part%201/hw1_2021.pdf)
 
 ### Part 2 - Transformations and Projections
-This part implements the proper functions in order to apply transformations and projections in an object. In the demo script presented examples of translations of a constant vector and rotation of a constant matrix.
+This part implements the proper functions in order to apply transformations and projections in an object. In the demo script presented examples of translations by a constant vector v and rotation by a constant matrix R.
 
 2nd Part Assignment's Presentation(only in Greek) : [here](Part%202/hw2_2021.pdf)
