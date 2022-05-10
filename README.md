@@ -23,3 +23,12 @@ This part implements the illumination of an object with three methods: ambient, 
 2. Phong Method : Info about this method -> [here](https://en.wikipedia.org/wiki/Phong_shading)
 
 3rd Part Assignment's Presentation(only in Greek) : [here](Part%203/CG_HW3_2021.pdf)
+
+##  :wrench: Development
+The files of the assignment were created with MATLAB R2018b.
+
+## :question: FAQ
+If there are any questions, create an issue in this repository.
+
+##  :lock: Licenses
+[MIT License](LICENSE)
