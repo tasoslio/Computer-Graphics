@@ -9,4 +9,4 @@ This part implements scanline algorithm for filling triangles. It uses two metho
 
 There are two different demo scripts that present the results of the two methods.
 
-1st Part Assignment's Presentation(only in Greek) : [here](hw1_2021.pdf)
+1st Part Assignment's Presentation(only in Greek) : [here](Part%201/hw1_2021.pdf)
